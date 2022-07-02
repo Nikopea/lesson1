@@ -23,3 +23,5 @@ def format_price(price):
     return f"Цена: {price} руб."
 price_2 = format_price(56.24)
 print(price_2)
+
+print('Hello world')
